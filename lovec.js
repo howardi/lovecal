@@ -1,11 +1,11 @@
- var fname = prompt("input your name");
- var lname =  prompt("input your their name");
+//  var fname = prompt("input your name");
+//  var lname =  prompt("input your their name");
 
- var loveScore = Math.random() * 100;
-  loveScore = Math.floor(loveScore) + 1;
- if(loveScore > 75){
-     alert("Your loveScore is " + loveScore + "%. You both love yourselves.");
- }
+//  var loveScore = Math.random() * 100;
+//   loveScore = Math.floor(loveScore) + 1;
+//  if(loveScore > 75){
+//      alert("Your loveScore is " + loveScore + "%. You both love yourselves.");
+//  }
 
  var lovecalcu = document.getElementById("lovecalcu");
 
